@@ -22,7 +22,7 @@ Making a PR
     Fork the repo and clone it on your machine.
     Add a upstream link to main branch in your cloned repo
 
-    git remote add upstream https://github.com/Py-Contributors/AlgorithmsAndDataStructure.git
+    git remote add upstream https://github.com/GFG_LC_101.git
 
     Keep your cloned repo upto date by pulling from upstream (this will also avoid any merge conflicts while committing new changes)
 
